@@ -1,5 +1,11 @@
-https://img.freepik.com/free-vector/linear-gradient-retro-computer_52683-60216.jpg?w=900&t=st=1702915804~exp=1702916404~hmac=ead818a4f100c626502be1287d031fcbb489989f91fa21904aba4c4de245e394
-<h1 align="center">Hi 👋, I'm Yağmur İnan</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <div>
+   <h1 align="center">Hi 👋, I'm Yağmur İnan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Needful Things](https://github.com/Yagmurinanx/the-project)
@@ -28,3 +34,7 @@ https://img.freepik.com/free-vector/linear-gradient-retro-computer_52683-60216.j
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurinanx&" alt="yagmurinanx" /></p>
 
+
+  </div>
+</body>
+</html>
